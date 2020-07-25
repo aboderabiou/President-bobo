@@ -1,0 +1,52 @@
+[
+    {
+        "nom": "Daouda Enikoy Hassiatou",
+        "citation": "L’opportunité tant rêver d’apprendre la programmation pour participer à l’entreprenariat féminin à travers le numérique.",
+    	"image": "img/hassia.png"
+    },
+    {
+        "nom": "Kanmadozo Richard Timothée Adjibadé",
+        "citation": "Parce que pour moi le développement est Une Passion et codeloccol m’offre cette opportunité de nourrir ma passion.Participer au changement de ma communauté dans le numérique.",
+    	"image": "img/timo.png"
+    },
+    {
+    	"nom": "Abdoulaye Kabo Imran ibrah",
+    	"citation": "Pour évoluer dans le domaine du Numérique.  Créer mon entreprise et contribuer au rayonnement de mon pays.",
+    	"image": "img/imran.png"
+    },
+    {
+        "nom": "ABODE Rabiou",
+        "citation": "Pour apprendre et créer des applications ou site web et aussi améliorer mes compétence en réseau. J'espère développer plusieurs applications ou site qui faciliterons le développement de mon pays et de ma communauté.",
+    	"image": "img/12.png"
+    },
+    {
+    	"nom": "Saidou Chaibou Souphiane",
+    	"citation": "A Codeloccol, ils mettent beaucoup plus l’accent sur la pratique que sur la théorie. Apporter des solutions numériques dans pratiquement tous les domaines de vie des nigériens.",
+    	"image": "img/souphiane.png"
+    },
+    {
+        "nom": "Idrissa Enikoye Haoua",
+        "citation": "Depuis tout petite j’aimais l’informatique, j’arrangeais de temps en temps des portables, configurais ..grâce à Codeloccol j’apprendrais à maitriser le code et aussi réaliser de grands projets dans le domaine du numérique.",
+    	"image": "img/haoua.png"
+    },
+    {
+        "nom": "Halidou Soumaïla Adamou",
+        "citation": "Apprendre à créer des sites, applications web et aussi la base de données (SQL) pour Trouver un emploi bien rémunéré et moins stressant.",
+    	"image": "img/adamou.png"
+    },
+    {
+        "nom":"Maman Lourwana Issaka",
+        "citation": "On veut former des développeur qui seront aguérri, des développeurs qui auront tout le background possible pour pouvoir vendre les solutions qu'ils vont développer.",
+        "image": "img/lourwana.jpg"
+    },
+    {
+        "nom":"Housseini Ahssimi Mamadou",
+        "citation": "Sa a commencé avec la curiosité. Quand je visitais un site web je me posais la question comment sa été fait... Mais le declic est venu apres avoir suivi un Documentaire sur Comment Larry et Sergei on créé Google. Ensuite j'ai suivi un documentaire sur Facebook et Mark Zuckerberg aussi. Ce dernier m'a encore plus motivé. Je revais grand et je voulais etre le prochain Mark. J'ai crée un reseau social a l'epoque. C'etait ma premiere startup tech. J'ai tenu 1 an et demi avant de fermer le site... Et depuis j'ai continué l'aventure pour etre la ou je suis...",
+        "image": "img/boss.jpeg"
+    },
+    {
+        "nom":"Tchiffa Guimbaro Mahamadou",
+        "citation": "Réaliser mon ambition de devenir un grand développeur. Pour participer à la réalisation des grands projets numériques et transformer le Niger",
+        "image": "img/mahamadou.png"
+    }
+]
